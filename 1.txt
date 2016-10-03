@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 You are a pig.dfdfadsfadsf
+=======
+You are a pig.
+>>>>>>> feature1
